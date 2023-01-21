@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/shadowkillerr/AQUABOT-MD.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
