@@ -18,9 +18,9 @@
   "developer": "sanuwa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/shadowkillerr/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/shadowkillerr/AQUABOT-MD",
   "dependencies": {
      "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
